@@ -1,0 +1,68 @@
+.page_title {
+    -fx-font-weight: bold;
+    -fx-font-size: 35px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: white;
+}
+
+.page_title_wrapper {
+    -fx-text-alignment: center;
+}
+
+.title,
+.title_dark,
+.text,
+.text_dark,
+.error,
+.money {
+    -fx-fony-family: "Arial";
+}
+
+.title,
+.title_dark {
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+}
+
+.title {
+    -fx-text-fill: white;
+}
+
+.title_dark {
+    -fx-text-fill: black;
+}
+
+.text,
+.text_dark,
+.error,
+.money {
+    -fx-font-size: 16px;
+}
+
+.text {
+    -fx-text-fill: rgb(194, 194, 194);
+}
+
+.text_dark {
+    -fx-text-fill: rgb(87, 87, 87);
+}
+
+.error {
+    -fx-text-fill: rgb(255, 57, 57);
+}
+
+.money {
+    -fx-text-fill: rgb(0, 255, 0);
+}
+
+.button {
+    -fx-text-fill: rgb(16, 85, 36);
+}
+
+.menu {
+    -fx-background-color: rgb(13, 68, 29);
+}
+
+.game {
+    -fx-background-color: rgb(32, 203, 255);
+}
